@@ -1,0 +1,20 @@
+{
+  "name": "vck-bootstrap",
+  "description": "Boostrap customized theme for Vereniging Campus Kabel",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Vereniging Campus Kabel <info@vck.tv> (https://vck.tv)",
+  "contributors": [
+    "Daniel Huisman <daniel@huisman.me> (https://danielhuisman.io)"
+  ],
+  "repository": "https://github.com/VerenigingCampusKabel/vck-bootstrap",
+  "keywords": [
+    "vck",
+    "bootstrap",
+    "custom"
+  ],
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
